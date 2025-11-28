@@ -4,6 +4,9 @@
 **0x0438ee0137585db8426F50332DF12c41E3fE24fb**  
 Flare Coston2 Explorer:  
 https://coston2-explorer.flare.network/address/0x0438ee0137585db8426F50332DF12c41E3fE24fb
+<img width="1366" height="728" alt="Flare Testnet Coston2 address details for 0x0438ee0137585db8426F50332DF12c41E3fE24fb - Comet 11_28_2025 1_44_35 PM" src="https://github.com/user-attachments/assets/e985d52c-6f5a-46db-a0d7-85ada05110be" />
+
+
 
 ---
 
